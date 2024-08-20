@@ -10,6 +10,8 @@ This repository contains a collection of Tableau dashboards showcasing various d
   - Vaccination Rates by Location
   - Vaccination Rates by Income Group
   - Trends over time for different countries
+ 
+![World Covid Data](https://github.com/PolinaBurova/Tableau-Dashboards/blob/main/Covid_Data_Tableau.png)
 
 ### 2. February Product and Order Review
 - **Description**: This dashboard reviews product orders for February, showing revenue, orders by day, and top products by revenue.
@@ -18,6 +20,8 @@ This repository contains a collection of Tableau dashboards showcasing various d
   - Revenue by State
   - Top Ten Products by Revenue
   - Daily Order Trends
+![Order Review](https://github.com/PolinaBurova/Tableau-Dashboards/blob/main/Order_Review_Tableau.png)
+
 
 ## How to Access
 - You can view the dashboards on [Tableau Public](https://public.tableau.com/app/profile/polina8614/vizzes).
