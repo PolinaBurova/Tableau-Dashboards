@@ -20,9 +20,9 @@ This repository contains a collection of Tableau dashboards showcasing various d
   - Daily Order Trends
 
 ## How to Access
-- You can view the dashboards on [Tableau Public]([https://public.tableau.com/](https://public.tableau.com/app/profile/polina8614/vizzes)).
-  - [World COVID Data]([https://public.tableau.com/profile/polina#!/vizhome/WorldCOVIDData/VaccinationRates](https://public.tableau.com/app/profile/polina8614/viz/WorldCovidData_16971322931930/WorldCovidData))
-  - [February Product and Order Review]([https://public.tableau.com/profile/polina#!/vizhome/FebruaryProductandOrderReview/OrderReview](https://public.tableau.com/app/profile/polina8614/viz/FebruaryProductandOrderReview_16974881626020/FebruaryProductandOrderReview))
+- You can view the dashboards on [Tableau Public](https://public.tableau.com/](https://public.tableau.com/app/profile/polina8614/vizzes).
+  - [World COVID Data](https://public.tableau.com/profile/polina#!/vizhome/WorldCOVIDData/VaccinationRates](https://public.tableau.com/app/profile/polina8614/viz/WorldCovidData_16971322931930/WorldCovidData)
+  - [February Product and Order Review](https://public.tableau.com/profile/polina#!/vizhome/FebruaryProductandOrderReview/OrderReview](https://public.tableau.com/app/profile/polina8614/viz/FebruaryProductandOrderReview_16974881626020/FebruaryProductandOrderReview)
 
 ## Author
 Polina Burova - Data Science Postgraduate
